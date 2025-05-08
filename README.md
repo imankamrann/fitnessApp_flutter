@@ -11,7 +11,7 @@ A simple Flutter app to browse breakfast recipes and diet tips with a clean, mod
 - 
 ## 🖼️ Screenshot
 
-![App Screenshot](assets/images/screenshot.png)
+![App Screenshot](assets/icons/screenshot.png)
 
 
 ## 🛠 Getting Started
