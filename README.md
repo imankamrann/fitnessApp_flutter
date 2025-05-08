@@ -1,4 +1,4 @@
-# FreshFlutterApp
+# Fitness App (Flutter)
 
 A simple Flutter app to browse breakfast recipes and diet tips with a clean, modern UI.
 
