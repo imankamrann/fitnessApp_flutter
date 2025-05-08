@@ -1,17 +1,24 @@
-# freshflutterapp
+# FreshFlutterApp
 
-A new Flutter project.
+A simple Flutter app to browse breakfast recipes and diet tips with a clean, modern UI.
 
-## Getting Started
+## 🚀 Features
+- Browse breakfast categories
+- View diet details (level, duration, calories)
+- Explore popular meals with icons
+- Search for specific meals
+- Responsive, modern design
 
-This project is a starting point for a Flutter application.
+## 🛠 Getting Started
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
+- [Flutter SDK](https://flutter.dev/docs/get-started/install)
+- Dart (bundled with Flutter)
+- IDE (VS Code, Android Studio, etc.)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# fitnessApp_flutter
+### Installation
+```bash
+git clone https://github.com/yourusername/freshflutterapp.git
+cd freshflutterapp
+flutter pub get
+flutter run
